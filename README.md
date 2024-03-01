@@ -1,3 +1,4 @@
+### int yong = 정수용
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtndyd2001)](https://solved.ac/wjdtndyd2001/)
 <!--
 **intyong/intyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
